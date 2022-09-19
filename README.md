@@ -1,4 +1,4 @@
-# TesteSicrediAPI
+# TesteSicrediWEB
 
 Este desafio tem como objetivo automatizar a page https://www.grocerycrud.com/v1.x/demo/bootstrap_theme_v5/add.
 

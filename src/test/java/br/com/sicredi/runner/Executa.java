@@ -29,7 +29,7 @@ public class Executa {
     metodos.btnAddCustomer(elementos.btnAddCustomer);
     metodos.inputCustomerName(elementos.inputCustomerName, "Teste Sicredi");
     metodos.inputContactLastName(elementos.inputContactLastName, "Teste");
-    metodos.inputContactFirstName(elementos.inputContactFirstName, "Diogo Pereira Gomes Silva");
+    metodos.inputContactFirstName(elementos.inputContactFirstName, "Moises Pereira do Nascimento");
     metodos.inputPhone(elementos.inputPhone, "51 9999-9999");
     metodos.inputAddressLine1(elementos.inputAddressLine1, "Av Assis Brasil, 3970");
     metodos.inputAddressLine2(elementos.inputAddressLine2, "Torre D");
